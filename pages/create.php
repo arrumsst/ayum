@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tambah Catatan</title>
+    <title>Tambah Catatan v2</title>
 </head>
 
 <body>
